@@ -1,0 +1,38 @@
+c:\users\dairong\documents\visual studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\MainWindow.baml
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Window1.baml
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Window1.g.cs
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\App.g.cs
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project_MarkupCompile.cache
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.g.resources
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\UserControl1.baml
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\UserControl1.g.cs
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Window2.baml
+C:\Users\dairong\Documents\Visual Studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Window2.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\USER\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\USER\Desktop\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\UserControl1.baml
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Window1.baml
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Window2.baml
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\UserControl1.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Window1.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Window2.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project_MarkupCompile.cache
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.g.resources
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\USER\Desktop\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache

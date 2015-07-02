@@ -1,0 +1,18 @@
+﻿<Window x:Class="Final_Project.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="300" Width="300">
+    <Grid>
+
+
+        <Image HorizontalAlignment="Left" Height="270" VerticalAlignment="Top" Width="314" Source="DOOR.jpg" Margin="0,0,-22,0" Opacity="0.7"/>
+        <Button x:Name="ans_one" Content="Button" HorizontalAlignment="Left" Height="25" Margin="37,142,0,0" VerticalAlignment="Top" Width="205" Click="Button_Click1"/>
+        <Button x:Name="ans_two" Content="Button" HorizontalAlignment="Left" Height="25" Margin="37,172,0,0" VerticalAlignment="Top" Width="205" Click="Button_Click2"/>
+        <Button x:Name="ans_three" Content="Button" HorizontalAlignment="Left" Height="25" Margin="37,202,0,0" VerticalAlignment="Top" Width="205" Click="Button_Click3"/>
+        <Button x:Name="ans_four" Content="Button" HorizontalAlignment="Left" Height="25" Margin="37,232,0,0" VerticalAlignment="Top" Width="205" Click="Button_Click4"/>
+        <Label x:Name="lblTimer" Content="Label" HorizontalAlignment="Left" Margin="134,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Question" Content="" HorizontalAlignment="Left" Height="79" Margin="24,42,0,0" VerticalAlignment="Top" Width="234" Foreground="#FF2E09AA" FontSize="16" FontWeight="Bold"/>
+
+
+    </Grid>
+</Window>
